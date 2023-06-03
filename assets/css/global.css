@@ -4,7 +4,13 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #AAB3C7;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
 }
 
 .content {
